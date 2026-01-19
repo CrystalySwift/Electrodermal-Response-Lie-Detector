@@ -7,7 +7,7 @@
 ## Project Overview
 **Sweat Truth** is an Analog Electronics project designed to detect physiological stress responses (deception) by monitoring **galvanic skin response (GSR)**.
 
-The system measures the drastic drop in skin resistance caused by sweat gland activity during stress. While commonly known as a "Lie Detector," technically it is an **Electrodermal Activity Monitor**.
+The system measures the drastic drop in skin resistance caused by sweat gland activity during stress. While commonly known as a "Lie Detector," technically it is an **electrodermal activity monitor**.
 
 **Key Features:**
 * **Analog Signal Processing:** Uses Op-Amp comparators and Wheatstone Bridge principles.
