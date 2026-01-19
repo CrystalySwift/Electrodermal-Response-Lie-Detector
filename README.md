@@ -38,8 +38,8 @@ The schematic above uses Indonesian labels. Please refer to the table below for 
 The circuit was rigorously tested across a range of skin resistance values (10kΩ to 1MΩ) to verify linearity and threshold switching.
 
 **Logic:**
-* **High Resistance (> 500kΩ):** Dry Skin $\rightarrow$ Relaxed $\rightarrow$ **TRUTH**
-* **Low Resistance (< 500kΩ):** Sweaty Skin $\rightarrow$ Stressed $\rightarrow$ **LIE**
+* **High Resistance (> 900kΩ):** Dry Skin $\rightarrow$ Relaxed $\rightarrow$ **TRUTH**
+* **Low Resistance (≤ 900kΩ):** Sweaty Skin $\rightarrow$ Stressed $\rightarrow$ **LIE**
 
 ### Test Results Table
 
