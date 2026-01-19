@@ -4,7 +4,7 @@
 [![Simulation](https://img.shields.io/badge/Simulation-Proteus%208-orange)]()
 [![Hardware](https://img.shields.io/badge/Hardware-Physical%20Prototype%20Built-green)]()
 
-## 📌 Project Overview
+## Project Overview
 **Sweat Truth** is an Analog Electronics project designed to detect physiological stress responses (deception) by monitoring **galvanic skin response (GSR)**.
 
 The system measures the drastic drop in skin resistance caused by sweat gland activity during stress. While commonly known as a "Lie Detector," technically it is an **Electrodermal Activity Monitor**.
