@@ -53,7 +53,7 @@ The circuit was rigorously tested across a range of skin resistance values (10k�
 | **10 kΩ** | Very Sweaty | 🔴 RED | **Lie / Stressed** |
 
 ### Visual Validation
-Below are the simulation captures showing the two extreme states.
+Below are the simulation captures showing the two states.
 
 **1. Truth State (Relaxed - 1MΩ)**
 ![Truth Simulation](sim_truth_1M.png)
@@ -61,9 +61,9 @@ Below are the simulation captures showing the two extreme states.
 
 **2. Lie State (Stressed - 10kΩ)**
 ![Lie Simulation](sim_lie_10k.png)
-*Figure 3: At 10kΩ resistance (simulating sweat), the Red LED activates immediately.*
+*Figure 3: At 100kΩ resistance (simulating sweat), the Red LED activates immediately.*
 
-## Limitations & Critical Analysis
+## Limitations
 While this project successfully demonstrates the fundamental principles of bio-impedance monitoring, several limitations are identified regarding its diagnostic precision.
 
 ### 1. Binary Output Quantization vs. Continuous Spectrum
